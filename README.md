@@ -6,6 +6,8 @@
 	 - Muebleria DICO, no es Diconomia
 	 - Alumno lento que habla azzziiiiiii
 	 - Administracion de los edificios
+	 - Tipos de Izzi
+	 - Chico barbon que se metio al repo
 
 
 ----------
